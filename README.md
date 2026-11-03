@@ -1,2 +1,0 @@
-# Netwwatch-hack
-Hackathon project
